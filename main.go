@@ -10,7 +10,7 @@ import (
 )
 
 func tutorial() {
-	fmt.Println("[~] First argument should be range in 4 and 100")
+	fmt.Println("[~] First argument should be range in 41 and 100")
 	fmt.Println("[~] Example:")
 	fmt.Println(os.Args[0], "50")
 	fmt.Println(os.Args[0], "80")
